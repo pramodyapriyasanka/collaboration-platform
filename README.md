@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/pramodyapriyasanka/collaboration-platform/main/public/images/logo/image%2001.png" alt="Hela Ahasa Logo" width="180" />
   
-  # Hela Ahasa — Unified Digital Ecosystem
+ # Hela Ahasa — Unified Digital Collaboration Platform Worldwide
   
-  **The world's most affordable and powerful collaboration platform. Engineered for high-velocity teams and digital sovereignty.**
+  **The world's most affordable and powerful collaboration ecosystem. Engineered for high-velocity teams and global digital sovereignty.**
   
   [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
